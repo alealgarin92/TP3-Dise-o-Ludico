@@ -8621,10 +8621,20 @@ PrefabInstance:
         para ello esquiva a las sombras que custodian su habitaci\xF3n, y acercate
         a la cama.\nUna vez que lo hagas, todo volver\xE1 a la normalidad."
       objectReference: {fileID: 0}
+    - target: {fileID: 5531954518076181415, guid: d66de286a465e5c44b9ad1368651b21c,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -23.816406
+      objectReference: {fileID: 0}
     - target: {fileID: 6899853940609220879, guid: d66de286a465e5c44b9ad1368651b21c,
         type: 3}
       propertyPath: m_SortingOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7659438582920544558, guid: d66de286a465e5c44b9ad1368651b21c,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -185
       objectReference: {fileID: 0}
     - target: {fileID: 7981732348746996550, guid: d66de286a465e5c44b9ad1368651b21c,
         type: 3}
